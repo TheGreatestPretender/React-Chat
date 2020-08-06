@@ -6,9 +6,9 @@ const settings = {
 };
 
 const config = {
-    projectId: 'Your firebase project id',
-    apiKey: 'your api key',
-    databaseURL: 'your db url duh'
+    projectId: 'react-chat-ecbb1',
+    apiKey: 'AIzaSyCnYXKRf8AHhfB0wQU0jybXdiAOvHXeKb4',
+    databaseURL: 'https://react-chat-ecbb1.firebaseio.com'
 };
 
 firebase.initializeApp(config);
